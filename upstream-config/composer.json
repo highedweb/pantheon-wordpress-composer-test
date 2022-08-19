@@ -20,9 +20,9 @@
         "wpackagist-plugin/wp-native-php-sessions": ">=0.6.9",
         "wpackagist-theme/twentynineteen": "^1.2",
         "wp-coding-standards/wpcs": "^1.2.1",
-        "wpackagist-plugin/classic-editor": "^1",
-        "wpackagist-plugin/redirection": "^1",
-        "wpackagist-plugin/wordpress-seo": "^1"
+        "wpackagist-plugin/classic-editor": "^1.6",
+        "wpackagist-plugin/redirection": "^5.3",
+        "wpackagist-plugin/wordpress-seo": "^19.5"
 
     },
     "require-dev": {
