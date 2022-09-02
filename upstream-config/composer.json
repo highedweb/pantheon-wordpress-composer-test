@@ -28,12 +28,12 @@
         "wpackagist-plugin/classic-editor": "^1.6",
         "wpackagist-plugin/classic-widgets": "^0.3.0",
         "wpackagist-plugin/ga-in": "^5.4.6",
-        "wpackagist-plugin/fitvids-for-wordpress/": "^3.0.11",       
+        "wpackagist-plugin/fitvids-for-wordpress": "^3.0.11",       
         "wpackagist-plugin/plugin-activation-status": "^1.0.2.1",
         "wpackagist-plugin/query-monitor": "^3.9.0",
         "wpackagist-plugin/redirection": "^5.3",
         "wpackagist-plugin/search-everything": "^8.1.9",
-        "wpackagist-plugin/wordpress-mu-domain-mapping/": "^0.5.5.1",
+        "wpackagist-plugin/wordpress-mu-domain-mapping": "^0.5.5.1",
         "wpackagist-plugin/wordpress-seo": "^19.5"
     },
     "require-dev": {
